@@ -1,2 +1,2 @@
-# USP_python
-Exercises from USP - Universidade de São Paulos - Introducing Python from Coursera
+# USP_Python
+Exercises from USP - Universidade de São Paulo - Introducing Python from Coursera
